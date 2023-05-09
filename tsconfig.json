@@ -115,5 +115,8 @@
   // "include": [
   //   "app.ts",
   //   "analytics.ts"
+  // ],
+  // "files": [
+  //   "app.ts"
   // ]
 }
