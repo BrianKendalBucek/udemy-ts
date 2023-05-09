@@ -106,7 +106,9 @@
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
-  "exclude": [
-    // "analytics.ts"
-  ]
+  // "exclude": [
+    // "node_modules", if you add exclude, you need to add node_modules, otherwise it will be default without exclude
+  //   "analytics.ts", 
+  //   "**/*.dev.ts"
+  // ]
 }
